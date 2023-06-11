@@ -1,5 +1,5 @@
 {
-  "name": "teamcity",
+  "name": "irdi-test-teamcity",
   "version": "1.0.7",
   "description": "Test Package",
   "main": "index.js",
